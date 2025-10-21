@@ -19,7 +19,7 @@ Here is a list of the projects currently in this repository:
 
 | Project Title | Description | Technologies Used |
 |---------------|-------------|-------------------|
-| 📂 **[Titanic Survival Prediction](./titanic_survival_prediction/)** | A classic classification project to predict passenger survival on the Titanic. The project features a Random Forest model optimized with `RandomizedSearchCV`, achieving 84% accuracy. | Python, Pandas, Scikit-learn, Seaborn |
+| 📂 **[Titanic Survival Prediction](Titanic Survival Prediction.ipynb)** | A classic classification project to predict passenger survival on the Titanic. The project features a Random Forest model optimized with `RandomizedSearchCV`, achieving 84% accuracy. | Python, Pandas, Scikit-learn, Seaborn |
 | *...more to come!* | | |
 
 ## Contact
